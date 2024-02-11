@@ -11,5 +11,8 @@
     "github"
   ],
   "author": "Mike McCready",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "13.6.4"
+  }
 }
