@@ -5,7 +5,7 @@ jobs:
   cypress-run:
     runs-on: ubuntu-latest
     container:
-      image: cypress/base:included
+      image: cypress/included:lastest
       options: --user 1001
     steps:
       - name: Checkout
