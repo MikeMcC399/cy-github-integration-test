@@ -13,6 +13,6 @@
   "author": "Mike McCready",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "13.6.4"
+    "cypress": "^14.5.2"
   }
 }
